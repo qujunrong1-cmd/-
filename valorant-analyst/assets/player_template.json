@@ -1,0 +1,31 @@
+{
+  "name": "（玩家名）",
+  "riot_id": "",
+  "source": "数据来源（截图/接口/手记）",
+  "updated": "YYYY-MM-DD",
+  "raw": {
+    "games": 0,
+    "win_rate": null,
+    "kills": 0,
+    "deaths": 0,
+    "assists": 0,
+    "first_bloods": null,
+    "kda_app": null,
+    "adr": null,
+    "kast": null,
+    "hs_pct": null,
+    "body_pct": null,
+    "leg_pct": null,
+    "hit_head": null,
+    "hit_body": null,
+    "hit_leg": null,
+    "edpi": null,
+    "dpi": null,
+    "sens": null,
+    "rounds_known": null
+  },
+  "agents_recent": [],
+  "constraints": {
+    "sens_change": false
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "gameVersion": "13.09",
+  "clientVersion": "13.09.00.5777412",
+  "buildDate": "2026-10-23",
+  "syncedAt": "2026-10-31 08:35",
+  "counts": {
+    "agents": 30,
+    "weapons": 20
+  },
+  "roleSplit": {
+    "先锋": 7,
+    "哨卫": 7,
+    "决斗": 9,
+    "控场": 7
+  },
+  "syncLog": {
+    "newAgents": [],
+    "goneAgents": [],
+    "roleChanged": [],
+    "newWeapons": [],
+    "priceChanged": []
+  }
+}
